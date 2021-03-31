@@ -1,0 +1,1 @@
+$$ \Delta V = \frac{2 k a Q x}{\sqrt{a^2 + y^2}} $$
